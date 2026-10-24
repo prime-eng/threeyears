@@ -363,7 +363,7 @@ export default function Home() {
           </p>
 
           <h2>
-            Ada lagu yang
+            Aku bikin lagu yang
             <br />
             <em>selalu mengingatkanku padamu.</em>
           </h2>
