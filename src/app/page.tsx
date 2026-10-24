@@ -85,6 +85,10 @@ const memories = [
 ];
 
 export default function Home() {
+  const musicSrc = `${
+    process.env.NODE_ENV === "production" ? "/threeyears" : ""
+  }/music/Masih-Kamu.mp3`;
+
   return (
     <main>
       {/* NAVIGASI */}
@@ -379,7 +383,7 @@ export default function Home() {
             preload="metadata"
           >
             <source
-              src="/music/Masih-kamu.mp3"
+              src={musicSrc}
               type="audio/mpeg"
             />
             Browser kamu tidak mendukung pemutar audio.
