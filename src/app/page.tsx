@@ -3,59 +3,59 @@ import PhotoCard from "@/components/PhotoCard";
 
 const photos = [
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.05 (1).jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.05 (1).jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.05.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.05.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.06 (1).jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.06 (1).jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.06.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.06.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.07 (1).jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.07 (1).jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.07.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.07.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.08 (1).jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.08 (1).jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.08.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.08.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.09.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.09.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.10.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.10.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.11.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.11.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.12.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.12.jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.13 (1).jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.13 (1).jpeg",
     alt: "",
   },
   {
-    src: "/images/WhatsApp Image 2026-10-24 at 21.33.13.jpeg",
+    src: "/threeyears/images/WhatsApp Image 2026-10-24 at 21.33.13.jpeg",
     alt: "",
   },
 ];
